@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoholanda2002@edu.unifor.br)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/apiusername=slnntkshow_icons=true&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&locale=pt-br)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=slnntk&theme=synthwave&locale=pt-br&include_all_commits)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slnntk&show_icons=true&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&locale=pt-br)
 
