@@ -4,7 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585987038928&text&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoholanda2002@edu.unifor.br)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slnntk&show_icons=true&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&locale=pt-br)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slnntk&layout=compact&theme=synthwave&locale=pt-br)](https://github.com/slnntk/github-readme-stats)
 
