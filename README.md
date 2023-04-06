@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slnntk&theme=synthwave&locale=pt-br&include_all_commits)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slnntk&layout=compact&theme=synthwave&locale=pt-br)](https://github.com/slnntk/github-readme-stats)
 
 
 ### Tecnologias que estou me aprofundando.
