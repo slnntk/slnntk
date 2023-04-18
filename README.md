@@ -6,6 +6,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username={slnntk}&theme=blue-green)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slnntk&layout=compact&theme=synthwave&locale=pt-br)](https://github.com/slnntk/github-readme-stats)
 
 
