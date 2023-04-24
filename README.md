@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoholanda2002@edu.unifor.br)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={slnntk}&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=slnntk&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slnntk&layout=compact&theme=synthwave&locale=pt-br)](https://github.com/slnntk/github-readme-stats)
 
