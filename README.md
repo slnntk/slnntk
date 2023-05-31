@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slnntk&layout=compact&theme=synthwave&locale=pt-br)](https://github.com/slnntk/github-readme-stats)
 
 
-### Tecnologias que estou me aprofundando.
+### Tecnologias que uso.
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/slnntk/Java)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/slnntk/Urna)
