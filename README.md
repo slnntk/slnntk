@@ -27,7 +27,7 @@ Sou um estudante universitário de Ciência da Computação em busca de oportuni
 - [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/slnntk/Java)
 - [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/slnntk/Urna)
 - [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/slnntk/Projeto-Zeus)
-- [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](Seu-Link-Aqui)
+- [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/slnntk/CSHARP-APRENDIZADO)
 
 ### Frontend:
 - [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/slnntk/Projeto-Zeus)
@@ -41,11 +41,11 @@ Sou um estudante universitário de Ciência da Computação em busca de oportuni
 ### ORM:
 - [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/slnntk/Urna)
 - [![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)](https://github.com/slnntk/Projeto-Zeus)
-- [![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)](Seu-Link-Aqui)
+- [![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
 
 ## 📚 Tecnologias que utilizei na faculdade:
 - [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slnntk/PythonAntigos)
-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](Seu-Link-Aqui)
+- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
 ## 👁️ Visualizações do Perfil:
 
